@@ -13,7 +13,7 @@
 </a> 
 <a href="https://lesscss.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/less-18-1175145.png" alt="less" width="40" height="40"/> 
 </a> 
-<a href="https://lesscss.org/" target="_blank" rel="noreferrer"> <img src="https://stylus-lang.com/logo.svg" alt="less" width="40" height="40"/> 
+<a href="https://stylus-lang.com/" target="_blank" rel="noreferrer"> <img src="https://stylus-lang.com/logo.svg" alt="stylus" width="40" height="40"/> 
 </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> <a href="https://balsamiq.com/" target="_blank" rel="noreferrer"> <img src="https://balsamiq.com/assets/company/brandassets/smileyface-transparent-1080x1080.png" alt="balsamiq" width="40" height="40"/> 
