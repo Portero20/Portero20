@@ -9,12 +9,15 @@
 <h3 align="left">Tools:</h3>
 
 <p align="left">
+  
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </a> 
 <a href="https://lesscss.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/less-18-1175145.png" alt="less" width="40" height="40"/> 
 </a> 
 <a href="https://stylus-lang.com/" target="_blank" rel="noreferrer"> <img src="https://stylus-lang.com/logo.svg" alt="stylus" width="40" height="40"/> 
 </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/> 
+</a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> <a href="https://balsamiq.com/" target="_blank" rel="noreferrer"> <img src="https://balsamiq.com/assets/company/brandassets/smileyface-transparent-1080x1080.png" alt="balsamiq" width="40" height="40"/> 
 </a>
@@ -30,7 +33,8 @@
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://es.vitejs.dev/logo-with-shadow.png" alt="vitejs" width="40" height="40"/> 
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://es.vitejs.dev/logo-with-shadow.png" alt="vitejs" width="40" height="40"/>  
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
