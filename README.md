@@ -2,11 +2,11 @@
 
 <img align="center" src="https://i.postimg.cc/2SZ8rYj9/personal-Exequiel-2.png">
 
-<h3 align="left">About me:</h3>
+## About me:
 
 👨‍🎓 I am a student of the Superior Technician in Software Development at the San Martín Institute and finished the Front End Developer career at Coderhouse.
 
-<h3 align="left">Tools:</h3>
+## Tools:
 
 <p align="left">
   
@@ -37,10 +37,10 @@
   
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/exequiel-portero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/exequiel-portero/" height="30" width="40" /></a>
 </p>
 
-
+## Estadisticas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Portero20&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true")](https://github.com/anuraghazra/github-readme-stats)
