@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Exequiel Portero</h1>
 
-<img align="center" src="https://i.postimg.cc/2SZ8rYj9/personal-Exequiel-2.png">
+<img align="center" src="https://i.postimg.cc/v8r5L87T/exequiel-stack.jpg">
 
 ## About me:
 
