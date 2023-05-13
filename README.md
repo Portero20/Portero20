@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧒 Hello everyone, Im Exequiel Portero<br>📝Im Fullstack Web Developer, Mobile Developer and Software Developer Technician<br>
+🧒 Hello everyone, Im Exequiel Portero<br>📝Im Frontend Web Developer, Mobile Developer and Software Developer Technician<br>
 
 
 ## 🌐 Socials:
