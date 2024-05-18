@@ -1,5 +1,9 @@
-# 💫 About Me:
-🧒 Hello everyone, Im Exequiel Portero<br>📝Im Frontend Web Developer, Mobile Developer and Software Developer Technician<br>
+<h1 align="center">Hello everyone, i'm Exequiel 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+📝Im Frontend Web Developer., Mobile Developer and Software Developer Technician.<br>
 
 
 ## 🌐 Socials:
